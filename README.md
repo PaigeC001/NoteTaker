@@ -55,6 +55,6 @@ The Note Taker application is a web-based tool that allows users to create, view
 
 - Deployed App: https://notetaker-jy9f.onrender.com
 
-- GitHub Repo: 
+- GitHub Repo: https://github.com/PaigeC001/NoteTaker
 
 
