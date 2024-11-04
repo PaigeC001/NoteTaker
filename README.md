@@ -30,3 +30,31 @@ The Note Taker application is a web-based tool that allows users to create, view
   - Click on an existing note in the list to view it
   - Use the trash icon next to a note to delete it
   - Click the "New Note" button to create a new note
+
+# Main Technologies Used
+
+- Node.js - A JavaScript runtime that allows the backend to be built with JavaScript
+  
+- Express.js - A web application framework for Node.js that simplifies the setup of routes and middleware
+  
+- UUID - A package used to generate unique IDs for each note
+  
+- File System (fs) - A Node.js module used to read and write data to a JSON file for note storage
+- 
+- HTML/CSS - Provides the structure and styling for the frontend user interface
+
+- JavaScript (Frontend) - Adds interactivity to the frontend, allowing dynamic updates without page reloads
+
+ # Screenshots
+
+ ![Screenshot 2024-11-03 11 49 26 PM](https://github.com/user-attachments/assets/d68f74b9-7e3c-4bf5-9aa6-f437eaa0e408)
+ ![Screenshot 2024-11-03 11 49 17 PM](https://github.com/user-attachments/assets/1d789e74-289d-4c35-9b99-1bffdbdb2ed7)
+ ![Screenshot 2024-11-03 11 48 58 PM](https://github.com/user-attachments/assets/d828bcd4-edd9-4270-9d28-1f53bfd66ec4)
+
+# Links
+
+- Deployed App: https://notetaker-jy9f.onrender.com
+
+- GitHub Repo: 
+
+
