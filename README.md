@@ -40,7 +40,7 @@ The Note Taker application is a web-based tool that allows users to create, view
 - UUID - A package used to generate unique IDs for each note
   
 - File System (fs) - A Node.js module used to read and write data to a JSON file for note storage
-- 
+  
 - HTML/CSS - Provides the structure and styling for the frontend user interface
 
 - JavaScript (Frontend) - Adds interactivity to the frontend, allowing dynamic updates without page reloads
